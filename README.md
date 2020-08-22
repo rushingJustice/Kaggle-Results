@@ -1,4 +1,4 @@
-# Kaggle-Results-Machine-Learning-and-EDA
+# Kaggle Results - EDA and Machine Learning
 My Kaggle competition notebooks and submissions. 
 
 This collection of notebooks demonstrates my ability to load, clean and prepare data for modeling. 
